@@ -1,1 +1,9 @@
-{\rtf1}
+body{
+  background-color: orange;
+}
+.balance, .profitloss{
+  margin: 0px 0px 0px 0px;
+    font-size: 5vh;
+    display: flex;
+    justify-content: center;
+}
