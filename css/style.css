@@ -12,3 +12,6 @@ body{
   justify-content: center;
   flex-direction: column;
 }
+.profitOrLosses{
+  border: 1px solid #0d86e3;
+}

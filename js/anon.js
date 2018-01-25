@@ -1,5 +1,5 @@
 var ltcAmount = 2.147581823;
-var xmrAmount = 0.4808501431;
+var xmrAmount = 1.202125358;
 
 $( document ).ready(function() {
     $.post('https://min-api.cryptocompare.com/data/pricemulti?fsyms=LTC,XMR&tsyms=USD,GBP', function(cryptoPrices) {
