@@ -98,6 +98,7 @@ $( document ).ready(function() {
       } else {
         $('.anonTable').css('color', 'green');
       }
+      //Show button:
       sortTable();
       // console.log("Adam:",profitOrLosses.adam,"Monty:",profitOrLosses.monty,"Jonathan:", profitOrLosses.jonathan , "Anonymous" , profitOrLosses.anon);
   });
