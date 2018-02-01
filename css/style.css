@@ -1,7 +1,7 @@
 body{
   font-family: 	'Helvetica Neue', 'Helvetica', 'Arial', "sans-serif";
   color: white;
-  background-image: url(https://media.discordapp.net/attachments/310813252626153474/408361116201254922/blue_red_1616.png?width=1214&height=683);
+  background-image: url(/css/assets/bg.png);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
